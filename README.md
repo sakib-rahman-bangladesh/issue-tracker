@@ -1,3 +1,1 @@
-# issue-tracker
-
-1. Updated commit
+GitLab is provides better ux.
